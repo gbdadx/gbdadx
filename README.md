@@ -1,70 +1,46 @@
-# gbdadx
-👤 Gabriela Díaz (gbdadx)
-Full-stack Front‑end Developer | Apasionada de la programación, videojuegos retro y código abierto 🔧💻
+# 👋 ¡Hola! Soy [TU NOMBRE]  
 
-Sobre mí
-💡 Formada en desarrollo web (HTML, CSS, JavaScript) con proyectos como tarjetaPresentacion, UntrefIntegradorConBootstrap, y otros.
+Soy [TU ROL — por ejemplo: "Desarrolladora web front-end"] con experiencia en [TUS SKILLS PRINCIPALES — por ejemplo: "HTML, CSS, JavaScript, GBDK y sistemas retro"].  
+Apasionada por el código limpio, el diseño accesible y los proyectos que combinan tecnología moderna con nostalgia retro.  
+Siempre estoy aprendiendo y buscando colaborar en ideas que me desafíen.
 
-🕹️ Interés especial en sistemas retro: contribuciones a proyectos como GBDK, herramientas para Game Boy/Game Boy Advance, y otros relacionados.
+![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-🌱 Aprendiendo constantemente: explorando compiladores, ensamblador y gestión de código en C/Assembly.
+---
 
-🌎 Argentina — abierta a colaboraciones y desafíos técnicos.
+## 🚀 Habilidades clave
 
-🚀 Proyectos destacados
-Repositorios personales
-Mis trabajos en front-end web—como tarjetaPresentacion, BancoMidasTP184Me, ProyectoIntegradorWebUNTREFSCHOOL, entre otros (en total, 36 repos)—cubren diseño responsivo, Bootstrap y JavaScript. 
-GitHub
-GitHub
-+2
-gbdk-2020.github.io
-+2
-GitHub
-+2
-GitHub
-+1
-GitHub
-+1
+- ✅ Lenguajes: HTML5, CSS3, JavaScript, C, Assembly  
+- ✅ Frameworks y herramientas: Bootstrap, Git, GitHub, GBDK-2020, SDCC  
+- ✅ Desarrollo web responsivo y accesible  
+- ✅ Experiencia en entornos retro: Game Boy, Game Boy Advance, compiladores antiguos  
+- ✅ Colaboración en proyectos open source y debugging avanzado
 
-Contribuciones a la comunidad retro:
-GBDK‑2020: kit de desarrollo multiplataforma para Game Boy, NES, Sega, etc. 
-GitHub
+---
 
-Feedback en repositorios como cs50IDE: aportando a la resolución de issues (e.g., explicación para rama de ejercicios). 
-GitHub
+## 🎯 Enfoque actual e intereses
 
-💼 Habilidades técnicas
-Área	Tecnologías y herramientas
-Web Development	HTML5, CSS3, JavaScript, Bootstrap
-Versionamiento	Git, GitHub (Issues, Pull Requests)
-Lenguajes de bajo nivel	C, Assembly (Game Boy), Shell scripts
-Toolchains retro	GBDK‑2020, SDCC, ensamblador
-Debugging & QA	Resolución colaborativa de issues, pruebas
+- Desarrollo front-end moderno con buenas prácticas
+- Profundización en toolchains de sistemas embebidos
+- Contribuciones a proyectos de software libre
+- Optimización de código para dispositivos de bajo recurso
+- Aprendizaje constante de nuevas tecnologías (¡React es lo próximo!)
 
-🎯 Intereses
-Desarrollo front‑end moderno y accesible.
+---
 
-Exploración de compilation chains para hardware retro.
+## 📬 Contacto
 
-Participación en proyectos open-source y comunidades técnicas.
+- 📧 Email: [TU EMAIL — ejemplo: gaby.diaz@email.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/in/TUUSUARIO)
 
-Aprender nuevas tecnologías y frameworks (React, Vue, Node.js).
+---
 
-📬 Contacto
-✉️ Email: gbdadx (en GitHub)
+## 📊 GitHub Stats
 
-🌐 Argentina
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=gbdadx&show_icons=true&theme=tokyonight)
 
-🤝 Abierta a colaboraciones, mentorías o sugerencias.
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=gbdadx&layout=compact&theme=tokyonight)
 
-✅ Cómo colaborar
-Explora mis repositorios y elige el que te interese.
+---
 
-Revisa los issues abiertos para contribuir.
-
-Envía PRs con mejoras o funcionalidades.
-
-¡Estaría encantada de escuchar ideas nuevas!
-
-🔗 En resumen
-Soy una desarrolladora dedicada al front-end web con una pasión por los sistemas retro. Me encanta aprender, colaborar y contribuir en proyectos open-source. Si quieres trabajar conmigo o simplemente charlar de código y videojuegos, ¡conversemos!
+⭐ Gracias por visitar mi perfil. ¡Estoy abierta a colaboraciones, ideas nuevas y proyectos que inspiren!
