@@ -1,8 +1,7 @@
-# 👋 ¡Hola! Soy [TU NOMBRE]  
+# 👋 ¡Hola! Soy Gabriela Díaz
 
-Soy [TU ROL — por ejemplo: "Desarrolladora web front-end"] con experiencia en [TUS SKILLS PRINCIPALES — por ejemplo: "HTML, CSS, JavaScript, GBDK y sistemas retro"].  
-Apasionada por el código limpio, el diseño accesible y los proyectos que combinan tecnología moderna con nostalgia retro.  
-Siempre estoy aprendiendo y buscando colaborar en ideas que me desafíen.
+Estoy haciendo mi camino en el mundo del desarrollo, combinando mi formación en otras áreas con cursos de programación, principalmente en **front-end** y ahora también en **Python** 🐍.  
+Me entusiasma resolver problemas, aprender nuevas tecnologías y avanzar hacia el análisis de datos.
 
 ![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -10,37 +9,36 @@ Siempre estoy aprendiendo y buscando colaborar en ideas que me desafíen.
 
 ## 🚀 Habilidades clave
 
-- ✅ Lenguajes: HTML5, CSS3, JavaScript, C, Assembly  
-- ✅ Frameworks y herramientas: Bootstrap, Git, GitHub, GBDK-2020, SDCC  
-- ✅ Desarrollo web responsivo y accesible  
-- ✅ Experiencia en entornos retro: Game Boy, Game Boy Advance, compiladores antiguos  
-- ✅ Colaboración en proyectos open source y debugging avanzado
+- ✅ **HTML**, **CSS**, **JavaScript** (bases sólidas de front-end)
+- ✅ Fundamentos de **Python**
+- ✅ Uso de **Git** y **GitHub** en el flujo de trabajo
+- ✅ Organización del código y buenas prácticas desde el inicio
+- ✅ Manejo básico de SQLite y estructura modular en Python
 
 ---
 
-## 🎯 Enfoque actual e intereses
+## 🎯 Enfoque actual
 
-- Desarrollo front-end moderno con buenas prácticas
-- Profundización en toolchains de sistemas embebidos
-- Contribuciones a proyectos de software libre
-- Optimización de código para dispositivos de bajo recurso
-- Aprendizaje constante de nuevas tecnologías (¡React es lo próximo!)
+- Consolidar conocimientos en **Python**
+- Profundizar en **estructuras de datos y lógica**
+- Avanzar hacia **análisis de datos** y **visualización**
+- Aprender herramientas como **Pandas**, **NumPy** y **Jupyter Notebooks** (en el corto plazo)
+- Seguir haciendo proyectos de práctica que integren lo aprendido
 
 ---
 
 ## 📬 Contacto
 
-- 📧 Email: [TU EMAIL — ejemplo: gaby.diaz@email.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/TUUSUARIO](https://www.linkedin.com/in/TUUSUARIO)
+- 📧 Email: [tuemail@example.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=gbdadx&show_icons=true&theme=tokyonight)
-
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=gbdadx&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gbdadx&show_icons=true&theme=tokyonight)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=gbdadx&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Estoy abierta a colaboraciones, ideas nuevas y proyectos que inspiren!
+⭐ Gracias por visitar mi perfil. Sigo aprendiendo y creciendo como desarrolladora — y siempre con ganas de compartir lo que voy descubriendo.
