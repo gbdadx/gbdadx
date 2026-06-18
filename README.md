@@ -30,7 +30,7 @@ Me entusiasma resolver problemas, aprender nuevas tecnologías y avanzar hacia e
 ## 📬 Contacto
 
 - 📧 Email: [tuemail@example.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
+- 🔗 LinkedIn:[ https://www.linkedin.com/in/gabrielabeatrizdiaz?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ---
 
