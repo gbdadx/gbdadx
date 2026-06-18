@@ -29,7 +29,7 @@ Me entusiasma resolver problemas, aprender nuevas tecnologías y avanzar hacia e
 
 ## 📬 Contacto
 
-- 📧 Email: [tuemail@example.com]  
+- 📧 Email: [gbdadx@gmail.com]  
 - 🔗 LinkedIn:[ https://www.linkedin.com/in/gabrielabeatrizdiaz?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ---
